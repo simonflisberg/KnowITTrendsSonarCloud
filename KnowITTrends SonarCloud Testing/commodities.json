@@ -1,0 +1,254 @@
+{
+    "COMMODOTIES": {
+        "AGRICULTURE": {
+            "COFFEEMILDARABICA": {
+                "series_id": "PCOFFOTMUSDM",
+                "name_full": "Global price of Coffee, Other Mild Arabica",
+                "name": "Mild Arabica",
+                "type": "Agriculture",
+                "location": "Global",
+                "unit": "U.S. Cents per Pound",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Coffee, Other Mild Arabica [PCOFFOTMUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PCOFFOTMUSDM."
+            },
+            "COFFEEROBUSTAS": {
+                "series_id": "PCOFFROBUSDM",
+                "name_full": "Global price of Coffee, Robustas",
+                "name": "Robustas",
+                "type": "Agriculture",
+                "location": "Global",
+                "unit": "U.S. Cents per Pound",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Coffee, Robustas [PCOFFROBUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PCOFFROBUSDM."
+            },
+            "SUGAR": {
+                "series_id": "PSUGAISAUSDM",
+                "name_full": "Global Price of Sugar, No. 11 World",
+                "name": "Sugar",
+                "type": "Agriculture",
+                "location": "Global",
+                "unit": "U.S. Cents per Pound",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Sugar, No. 11, World [PSUGAISAUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PSUGAISAUSDM."
+            },
+            "OLIVEOIL": {
+                "series_id": "POLVOILUSDM",
+                "name_full": "Global price of Olive Oil",
+                "name": "Olive Oil",
+                "type": "Agriculture",
+                "location": "Global",
+                "unit": "U.S. Dollars per Metric Ton",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Olive Oil [POLVOILUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/POLVOILUSDM."
+            },
+            "SUNFLOWEROIL": {
+                "series_id": "PSUNOUSDM",
+                "name_full": "Global price of Sunflower Oil",
+                "name": "Sunflower Oil",
+                "type": "Agriculture",
+                "location": "Global",
+                "unit": "U.S. Dollars per Metric Ton",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Sunflower Oil [PSUNOUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PSUNOUSDM."
+            },
+            "COTTON": {
+                "series_id": "PCOTTINDUSDM",
+                "name_full": "Global price of Cotton",
+                "name": "Cotton",
+                "type": "Agriculture",
+                "location": "Global",
+                "unit": "U.S. Dollars per Pound",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Cotton [PCOTTINDUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PCOTTINDUSDM."
+            },
+            "WHEAT": {
+                "series_id": "PWHEAMTUSDM",
+                "name_full": "Global price of Wheat",
+                "name": "Wheat",
+                "type": "Agriculture",
+                "location": "Global",
+                "unit": "U.S. Dollars per Metric Ton",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Wheat [PWHEAMTUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PWHEAMTUSDM."
+            },
+            "BANANAS": {
+                "series_id": "PBANSOPUSDM",
+                "name_full": "Global price of Bananas",
+                "name": "Bananas",
+                "type": "Agriculture",
+                "location": "Global",
+                "unit": "U.S. Dollars per Metric Ton",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Bananas [PBANSOPUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PBANSOPUSDM."
+            },
+            "CORN": {
+                "series_id": "PMAIZMTUSDM",
+                "name_full": "Global price of Corn",
+                "name": "Corn",
+                "type": "Metals",
+                "location": "Global",
+                "unit": "U.S. Dollars per Metric Ton",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Iron Ore [PIORECRUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PIORECRUSDM."
+            }
+        },
+        "LIVESTOCK": {
+            "SWINE": {
+                "series_id": "PPORKUSDM",
+                "name_full": "Global price of Swine",
+                "name": "Swine🐷",
+                "type": "Livestock",
+                "location": "Global",
+                "unit": "U.S. Cents per Pound",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Swine [PPORKUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPORKUSDM."
+            },
+            "POUlTRY": {
+                "series_id": "PPOULTUSDM",
+                "name_full": "Global price of Poultry",
+                "name": "Poultry🐓",
+                "type": "Livestock",
+                "location": "Global",
+                "unit": "U.S. Cents per Pound",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Poultry [PPOULTUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPOULTUSDM."
+            },
+            "BEEF": {
+                "series_id": "PBEEFUSDQ",
+                "name_full": "Beef🐮",
+                "name": "Price of Beef",
+                "type": "Livestock",
+                "location": "Global",
+                "unit": "U.S. Cents per Pound",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Beef [PBEEFUSDQ], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PBEEFUSDQ."
+            },
+            "FISH": {
+                "series_id": "PSALMUSDM",
+                "name_full": "Fish🐟",
+                "name": "Price of Fish",
+                "type": "Livestock",
+                "location": "Global",
+                "unit": "U.S. Dollars per Metric Ton",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Beef [PBEEFUSDQ], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PBEEFUSDQ."
+            }
+        },
+        "METALS": {
+            "NICKEL": {
+                "series_id": "PNICKUSDM",
+                "name_full": "Global price of Nickel",
+                "name": "Nickel",
+                "type": "Metals",
+                "location": "Global",
+                "unit": "U.S. Dollars per Metric Ton",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Nickel [PNICKUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PNICKUSDM."
+            },
+            "ALUMINUM": {
+                "series_id": "PALUMUSDM",
+                "name_full": "Global price of Aluminum",
+                "name": "Aluminum",
+                "type": "Metals",
+                "location": "Global",
+                "unit": "U.S. Dollars per Metric Ton",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Aluminum [PALUMUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PALUMUSDM."
+            },
+            "IRONORE": {
+                "series_id": "PIORECRUSDM",
+                "name_full": "Global price of Iron Ore",
+                "name": "Iron Ore",
+                "type": "Metals",
+                "location": "Global",
+                "unit": "U.S. Dollars per Metric Ton",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Iron Ore [PIORECRUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PIORECRUSDM."
+            }
+        },
+        "ENERGY": {
+            "BRENT": {
+                "series_id": "POILBREUSDM",
+                "name_full": "Global price of Brent Crude",
+                "name": "Brent Crude",
+                "type": "Energy",
+                "location": "Global",
+                "unit": "U.S. Dollars per Barrel",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Brent Crude [POILBREUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/POILBREUSDM."
+            },
+            "NATURALGASEU": {
+                "series_id": "PNGASEUUSDM",
+                "name_full": "Global price of Natural Gas, EU",
+                "name": "Natural Gas, EU",
+                "type": "Energy",
+                "location": "Global",
+                "unit": "U.S. Dollars per Million Metric British Thermal Unit",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Natural gas, EU [PNGASEUUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PNGASEUUSDM."
+            },
+            "URANIUM": {
+                "series_id": "PURANUSDM",
+                "name_full": "Global price of Uranium",
+                "name": "Uranium",
+                "type": "Energy",
+                "location": "Global",
+                "unit": "U.S. Dollars per Pound",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Uranium [PURANUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PURANUSDM."
+            },
+            "WTI": {
+                "series_id": "POILWTIUSDM",
+                "name_full": "Global price of WTI Crude",
+                "name": "WTI Crude",
+                "type": "Energy",
+                "location": "Global",
+                "unit": "U.S. Dollars per Barrel",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of WTI Crude [POILWTIUSDM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/POILWTIUSDM."
+            }
+        },
+        "INDEX": {
+            "INDEXFOOD": {
+                "series_id": "PFOODINDEXM",
+                "name_full": "Global Price of Food Index",
+                "name": "Food Index",
+                "type": "Agriculture",
+                "location": "Global",
+                "unit": "2016 = 100",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Food index [PFOODINDEXM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PFOODINDEXM."
+            },
+            "INDEXMETALS": {
+                "series_id": "PMETAINDEXM",
+                "name_full": "Global Price of Metal Index",
+                "name": "Metal Index",
+                "type": "Metals",
+                "location": "Global",
+                "unit": "2016 = 100",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Metal index [PMETAINDEXM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PMETAINDEXM."
+            },
+            "INDEXALL": {
+                "series_id": "PALLFNFINDEXM",
+                "name_full": "Global Price Index of All Commodities",
+                "name": "Commodities Index",
+                "type": "All Commodities",
+                "location": "Global",
+                "unit": "2016 = 100",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global Price Index of All Commodities [PALLFNFINDEXM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PALLFNFINDEXM."
+            },
+            "INDEXENERGY": {
+                "series_id": "PNRGINDEXM",
+                "name_full": "Global Price of Energy Index",
+                "name": "Energy Index",
+                "type": "Energy",
+                "location": "Global",
+                "unit": "2016 = 100",
+                "note": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.",
+                "citation": "International Monetary Fund, Global price of Energy index [PNRGINDEXM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PNRGINDEXM."
+            }
+        }
+    }
+}
