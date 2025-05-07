@@ -425,4 +425,4 @@ if __name__ == "__main__":
     # print(data_agent.queryRerportPDF("forex", "USDCAD", key_figures_forex=False, recent_performance_forex=False))
     # print(data_agent.queryRerportPDF("country", "SE"))
 
-    print('babas')
+    print('baba')
